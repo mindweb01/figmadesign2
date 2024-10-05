@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="width: 1440px; height: 8604px; position: relative; background: white">
+        <div style="width: 1368px; height: 84px; left: 36px; top: 0px; position: absolute; border: 1px black solid">
+          <div style="left: 27px; top: 18px; position: absolute; color: black; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">Logo</div>
+          <div style="left: 413px; top: 27px; position: absolute; justify-content: flex-start; align-items: center; gap: 60px; display: inline-flex">
+            <div style="color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">Our Work</div>
+            <div style="color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">Resources</div>
+            <div style="color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">Pricing</div>
+          </div>
+          <div style="padding-left: 20px; padding-right: 20px; padding-top: 8px; padding-bottom: 8px; left: 1143px; top: 19px; position: absolute; border-radius: 6px; border: 1px black solid; justify-content: center; align-items: center; display: inline-flex">
+            <div style="color: black; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Case Studies</div>
+          </div>
+        </div>
+        <div style="width: 1368px; height: 552px; left: 36px; top: 84px; position: absolute; background: white; border: 1px black solid">
+          <div style="left: 469px; top: 444px; position: absolute; justify-content: flex-start; align-items: center; gap: 54px; display: inline-flex">
+            <div style="padding-left: 20px; padding-right: 20px; padding-top: 8px; padding-bottom: 8px; border-radius: 6px; border: 1px black solid; justify-content: center; align-items: center; gap: 6px; display: flex">
+              <div style="color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Case Study </div>
+              <div style="width: 29px; height: 29px; position: relative">
+                <div style="width: 3.02px; height: 3.02px; left: 17.12px; top: 8.88px; position: absolute; background: #F24E1E"></div>
+                <div style="width: 25.37px; height: 25.37px; left: 1.81px; top: 1.81px; position: absolute; background: #F24E1E"></div>
+                <div style="width: 7.25px; height: 7.25px; left: 2.72px; top: 19.03px; position: absolute; background: #F24E1E"></div>
+              </div>
+            </div>
+            <div style="padding-left: 20px; padding-right: 20px; padding-top: 8px; padding-bottom: 8px; border-radius: 6px; border: 1px black solid; justify-content: center; align-items: center; display: flex">
+              <div style="color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Our Work</div>
+            </div>
+          </div>
+          <div style="height: 160px; padding: 10px; left: 309px; top: 166px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 731px; text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Empower Your Business with Custom Designs That Convert</div>
+          </div>
+          <div style="width: 177px; left: 380px; top: 92.40px; position: absolute; color: rgba(127.50, 117.30, 117.30, 0.69); font-size: 10.69px; font-family: Plus Jakarta Sans; font-weight: 300; word-wrap: break-word">Build converting landing pages <br/>that effectively increase your sales</div>
+          <div style="width: 177px; left: 577px; top: 92.40px; position: absolute; color: rgba(127.50, 117.30, 117.30, 0.69); font-size: 10.69px; font-family: Plus Jakarta Sans; font-weight: 300; word-wrap: break-word">Build converting landing pages <br/>that effectively increase your sales</div>
+          <div style="width: 177px; left: 774px; top: 92.40px; position: absolute; color: rgba(127.50, 117.30, 117.30, 0.69); font-size: 10.69px; font-family: Plus Jakarta Sans; font-weight: 300; word-wrap: break-word">Build converting landing pages <br/>that effectively increase your sales</div>
+          <img style="width: 125.57px; height: 24.71px; left: 409.35px; top: 57px; position: absolute" src="https://via.placeholder.com/126x25" />
+          <img style="width: 125.57px; height: 24.71px; left: 606.35px; top: 57px; position: absolute" src="https://via.placeholder.com/126x25" />
+          <img style="width: 125.57px; height: 24.71px; left: 803.35px; top: 57px; position: absolute" src="https://via.placeholder.com/126x25" />
+          <div style="width: 579px; left: 376px; top: 332px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages <br/>that effectively increase your sales</div>
+        </div>
+        <div style="width: 1368px; height: 202px; left: 36px; top: 640px; position: absolute; border: 1px black solid">
+          <div style="left: 370px; top: 21px; position: absolute; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Conversions that created value </div>
+          <div style="left: 134px; top: 111px; position: absolute; justify-content: flex-start; align-items: center; gap: 69px; display: inline-flex">
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+            <div style="color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+          </div>
+        </div>
+        <div style="width: 1368px; height: 781px; left: 36px; top: 842px; position: absolute; border: 2px black solid">
+          <div style="left: 579px; top: 61px; position: absolute; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">FIND OUT?</div>
+          <div style="left: 508px; top: 674px; position: absolute; text-align: center; color: black; font-size: 29.21px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Unlock Your Conversions<br/>with our SYSTEMS</div>
+          <div style="left: 672px; top: 124px; position: absolute; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">WHY  YOUR REVENUE IS NOT INCREASING</div>
+          <div style="width: 103px; height: 103px; left: 337px; top: 473px; position: absolute">
+            <div style="width: 67.29px; height: 67.98px; left: 17.85px; top: 17.85px; position: absolute; background: #111111"></div>
+          </div>
+          <div style="width: 107.50px; height: 107.50px; left: 931px; top: 463px; position: absolute">
+            <div style="width: 70.23px; height: 70.95px; left: 18.63px; top: 18.63px; position: absolute; background: #4ECB71"></div>
+          </div>
+          <div style="left: 266px; top: 575px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 32px; font-family: Poppins; font-weight: 700; word-wrap: break-word">visitors Buying </div>
+          <div style="left: 870px; top: 580px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 32px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Visitor Buying</div>
+          <div style="left: 300px; top: 624px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">From website 12%</div>
+          <div style="left: 894px; top: 624px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">From website 40%</div>
+          <div style="width: 1368px; padding-top: 4px; left: 0px; top: 942px; position: absolute; border: 31px black solid; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 1368px; height: 561px; position: relative"></div>
+          </div>
+        </div>
+        <div style="width: 466.04px; height: 251px; padding-top: 89.89px; padding-bottom: 102.11px; padding-left: 154.61px; padding-right: 153.43px; left: 208px; top: 1047px; position: absolute; border-radius: 13.83px; overflow: hidden; border: 2.07px black solid; justify-content: center; align-items: center; display: inline-flex">
+          <div style="text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 48.87px; font-family: Inter; font-weight: 700; word-wrap: break-word">Before</div>
+        </div>
+        <div style="width: 466.04px; height: 251px; padding-top: 89.89px; padding-bottom: 102.11px; left: 766.81px; top: 1047px; position: absolute; border-radius: 13.83px; overflow: hidden; border: 2.07px black solid; justify-content: center; align-items: center; display: inline-flex">
+          <div style="text-align: center; color: rgba(0, 0, 0, 0.39); font-size: 48.87px; font-family: Inter; font-weight: 700; word-wrap: break-word">After</div>
+        </div>
+        <div style="padding-top: 35px; padding-bottom: 36px; padding-left: 46px; padding-right: 94px; left: 36px; top: 1623px; position: absolute; border: 2px black solid; justify-content: flex-start; align-items: flex-start; gap: 102px; display: inline-flex">
+          <div style="text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">YOUR PRODUCT IS AWESOME!</div>
+          <div style="text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">PERSUADE YOUR VISITORS</div>
+        </div>
+        <div style="width: 1368px; height: 1767px; left: 36px; top: 1768px; position: absolute">
+          <div style="padding: 10px; left: 466px; top: 106px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Our proven approach</div>
+          </div>
+          <div style="padding: 10px; left: 348px; top: 1182px; position: absolute"></div>
+          <div style="width: 651px; left: 359px; top: 877px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Plus Jakarta Sans; font-weight: 600; word-wrap: break-word">Keep your visitors scrolling your website</div>
+          <div style="width: 323px; height: 538.82px; left: 279px; top: 257px; position: absolute; background: #DFDFDF; border-radius: 8.07px; border: 2.20px black solid"></div>
+          <div style="width: 323px; height: 538.82px; left: 765px; top: 257px; position: absolute; background: #DFDFDF; border-radius: 8.07px; border: 2.20px black solid"></div>
+          <div style="width: 702px; height: 578px; padding-top: 71.47px; padding-bottom: 71.47px; padding-left: 39.37px; padding-right: 602.47px; left: 332px; top: 1034px; position: absolute; background: #DFDFDF; border-radius: 12px; overflow: hidden; border: 0.72px black solid; flex-direction: column; justify-content: center; align-items: flex-start; gap: 128.24px; display: inline-flex">
+            <div style="width: 59.53px; flex: 1 1 0; padding-left: 25.17px; padding-right: 25.17px; padding-top: 4.36px; padding-bottom: 4.36px; background: #D9D9D9; border-radius: 29.76px; border: 0.48px black solid; flex-direction: column; justify-content: center; align-items: center; gap: 4.84px; display: inline-flex">
+              <div style="align-self: stretch; height: 34.79px; text-align: center; color: black; font-size: 26.37px; font-family: Poppins; font-weight: 700; word-wrap: break-word">1</div>
+            </div>
+            <div style="width: 59.53px; flex: 1 1 0; padding-left: 31.50px; padding-right: 31.50px; padding-top: 5.45px; padding-bottom: 5.45px; background: #D9D9D9; border-radius: 37.25px; border: 0.61px black solid; flex-direction: column; justify-content: center; align-items: center; gap: 6.06px; display: inline-flex">
+              <div style="align-self: stretch; height: 43.53px; text-align: center; color: black; font-size: 33px; font-family: Poppins; font-weight: 700; word-wrap: break-word">2</div>
+            </div>
+            <div style="width: 59.53px; flex: 1 1 0; padding-left: 31.50px; padding-right: 31.50px; padding-top: 5.45px; padding-bottom: 5.45px; background: #D9D9D9; border-radius: 37.25px; border: 0.61px black solid; flex-direction: column; justify-content: center; align-items: center; gap: 6.06px; display: inline-flex">
+              <div style="align-self: stretch; height: 43.53px; text-align: center; color: black; font-size: 33px; font-family: Poppins; font-weight: 700; word-wrap: break-word">3</div>
+            </div>
+          </div>
+          <div style="padding-left: 29.95px; padding-right: 29.95px; padding-top: 11.98px; padding-bottom: 11.98px; left: 479px; top: 1657px; position: absolute; border-radius: 8.99px; border: 1.50px black solid; justify-content: center; align-items: center; gap: 8.99px; display: inline-flex">
+            <div style="color: black; font-size: 35.94px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">View Case Study </div>
+            <div style="width: 43.43px; height: 43.43px; position: relative">
+              <div style="width: 4.53px; height: 4.53px; left: 25.63px; top: 13.30px; position: absolute; background: #F24E1E"></div>
+              <div style="width: 38px; height: 38px; left: 2.72px; top: 2.71px; position: absolute; background: #F24E1E"></div>
+              <div style="width: 10.86px; height: 10.86px; left: 4.07px; top: 28.50px; position: absolute; background: #F24E1E"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 1368px; height: 2002px; left: 56px; top: 3535px; position: absolute">
+          <div style="padding: 16.43px; left: 339.25px; top: 102px; position: absolute; justify-content: center; align-items: center; gap: 16.43px; display: inline-flex">
+            <div style="width: 657px; text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">HOW PERSUADE MIND WORKS</div>
+          </div>
+          <div style="left: 172.57px; top: 357px; position: absolute; justify-content: flex-start; align-items: center; gap: 50.75px; display: inline-flex">
+            <div style="width: 61.12px; height: 61.12px; background: #D9D9D9; border-radius: 9999px"></div>
+            <div style="width: 727px; height: 309px; position: relative; background: #DFDFDF; border-radius: 6px; border: 1.64px black solid"></div>
+          </div>
+          <div style="width: 61.12px; height: 61.12px; left: 173px; top: 863.94px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+          <div style="width: 61.12px; height: 61.12px; left: 172px; top: 1246.94px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+          <div style="width: 61.12px; height: 61.12px; left: 172px; top: 1629.94px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+          <div style="width: 727px; height: 309px; left: 284.86px; top: 740px; position: absolute; background: #DFDFDF; border-radius: 6px; border: 1.64px black solid"></div>
+          <div style="width: 727px; height: 309px; left: 283.86px; top: 1123px; position: absolute; background: #DFDFDF; border-radius: 6px; border: 1.64px black solid"></div>
+          <div style="width: 727px; height: 309px; left: 283.86px; top: 1506px; position: absolute; background: #DFDFDF; border-radius: 6px; border: 1.64px black solid"></div>
+          <div style="padding-left: 29.57px; padding-right: 29.57px; padding-top: 11.83px; padding-bottom: 11.83px; left: 506px; top: 1901px; position: absolute; border-radius: 8.87px; border: 1.48px black solid; justify-content: center; align-items: center; display: inline-flex">
+            <div style="color: black; font-size: 35.48px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Get your website</div>
+          </div>
+          <div style="width: 511px; left: 429px; top: 215px; position: absolute; text-align: center; color: black; font-size: 21.18px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages <br/>that effectively increase your sales</div>
+        </div>
+        <div style="width: 1368px; height: 904px; left: 36px; top: 5808px; position: absolute">
+          <div style="width: 727px; height: 509px; left: 340px; top: 235px; position: absolute; background: #DFDFDF; border-radius: 33px; overflow: hidden; border: 1.64px black solid">
+            <img style="width: 125.57px; height: 24.71px; left: 85px; top: 81px; position: absolute" src="https://via.placeholder.com/126x25" />
+            <div style="padding: 9.86px; left: 44px; top: 139px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+              <div style="width: 394.28px; text-align: center; color: black; font-size: 26px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Frameworks that stands out</div>
+            </div>
+            <div style="padding: 9.86px; left: 68px; top: 398px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+              <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+                  <div style="height: 34px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                    <div style="width: 173px; color: black; font-size: 27px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Larry Fink</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 416px; left: 75px; top: 225px; position: absolute; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages Build converting landing pages <br/>that effectively increase your sales<br/>that effectively increase your sales</div>
+            <div style="left: 541px; top: 401px; position: absolute; color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+          </div>
+          <div style="padding: 9.86px; left: 463.14px; top: 95px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+            <div style="width: 478px; text-align: center; color: black; font-size: 40px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Glimpse from our WORK</div>
+          </div>
+          <div style="padding-left: 29.57px; padding-right: 29.57px; padding-top: 11.83px; padding-bottom: 11.83px; left: 537px; top: 798px; position: absolute; border-radius: 8.87px; border: 1.48px black solid; justify-content: center; align-items: center; display: inline-flex">
+            <div style="color: black; font-size: 35.48px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Our Resources</div>
+          </div>
+        </div>
+        <div style="width: 727px; height: 509px; left: 1172px; top: 6043px; position: absolute; background: #DFDFDF; border-radius: 33px; overflow: hidden; border: 1.64px black solid">
+          <img style="width: 125.57px; height: 24.71px; left: 85px; top: 81px; position: absolute" src="https://via.placeholder.com/126x25" />
+          <div style="padding: 9.86px; left: 44px; top: 139px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+            <div style="width: 394.28px; text-align: center; color: black; font-size: 26px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Frameworks that stands out</div>
+          </div>
+          <div style="padding: 9.86px; left: 68px; top: 398px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div style="height: 34px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                  <div style="width: 173px; color: black; font-size: 27px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Larry Fink</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 416px; left: 75px; top: 225px; position: absolute; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages Build converting landing pages <br/>that effectively increase your sales<br/>that effectively increase your sales</div>
+          <div style="left: 541px; top: 401px; position: absolute; color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+        </div>
+        <div style="width: 727px; height: 509px; left: -403px; top: 6043px; position: absolute; background: #DFDFDF; border-radius: 33px; overflow: hidden; border: 1.64px black solid">
+          <img style="width: 125.57px; height: 24.71px; left: 85px; top: 81px; position: absolute" src="https://via.placeholder.com/126x25" />
+          <div style="padding: 9.86px; left: 44px; top: 139px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+            <div style="width: 394.28px; text-align: center; color: black; font-size: 26px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Frameworks that stands out</div>
+          </div>
+          <div style="padding: 9.86px; left: 68px; top: 398px; position: absolute; justify-content: center; align-items: center; gap: 9.86px; display: inline-flex">
+            <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+              <div style="justify-content: center; align-items: center; gap: 10px; display: flex">
+                <div style="height: 34px; justify-content: center; align-items: center; gap: 10px; display: flex">
+                  <div style="width: 173px; color: black; font-size: 27px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Larry Fink</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 416px; left: 75px; top: 225px; position: absolute; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages Build converting landing pages <br/>that effectively increase your sales<br/>that effectively increase your sales</div>
+          <div style="left: 541px; top: 401px; position: absolute; color: rgba(0, 0, 0, 0.39); font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word">Logo</div>
+        </div>
+        <div style="width: 1476px; height: 1037px; left: 7px; top: 6797px; position: absolute">
+          <div style="padding: 10px; left: 623.50px; top: 24px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: center; color: black; font-size: 40px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Pricing</div>
+          </div>
+          <div style="padding: 4.41px; left: 446px; top: 116px; position: absolute; justify-content: center; align-items: center; gap: 4.41px; display: inline-flex">
+            <div style="width: 535px; text-align: center; color: black; font-size: 28.66px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word"> Choose a  plan that matches your need.</div>
+          </div>
+          <div style="width: 568px; height: 745px; left: 138px; top: 213px; position: absolute; background: #C9C5C5; border-radius: 18px; overflow: hidden; border: 1px black solid">
+            <div style="padding: 10px; left: 186.50px; top: 40px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+              <div style="text-align: center; color: black; font-size: 40px; font-family: Poppins; font-weight: 700; word-wrap: break-word">STARTER</div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 46px; top: 201px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 46px; top: 321px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 46px; top: 441px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 46px; top: 561px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 291px; height: 43px; padding-left: 20px; padding-right: 20px; padding-top: 4px; padding-bottom: 4px; left: 151px; top: 677px; position: absolute; background: white; border-radius: 4px; border: 4px #F3F2F2 solid; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+              <div style="text-align: center; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 600; word-wrap: break-word">$499/MO</div>
+            </div>
+          </div>
+          <div style="width: 578px; height: 745px; left: 767px; top: 213px; position: absolute; background: #C9C5C5; border-radius: 18px; overflow: hidden; border: 1px black solid">
+            <div style="padding: 10px; left: 238px; top: 42px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+              <div style="text-align: center; color: black; font-size: 40px; font-family: Poppins; font-weight: 700; word-wrap: break-word">PRO</div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 56px; top: 193px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 56px; top: 313px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 56px; top: 433px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 64px; height: 64px; left: 56px; top: 553px; position: absolute">
+              <div style="width: 48px; height: 48px; left: 8px; top: 8px; position: absolute; background: #666666"></div>
+            </div>
+            <div style="width: 291px; height: 43px; padding-left: 20px; padding-right: 20px; padding-top: 4px; padding-bottom: 4px; left: 143px; top: 666px; position: absolute; background: white; border-radius: 4px; border: 4px #F3F2F2 solid; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+              <div style="text-align: center; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 600; word-wrap: break-word">$999/MO</div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 1368px; height: 746px; left: 36px; top: 7835px; position: absolute; border: 3px black solid">
+          <div style="width: 751px; padding: 10px; left: 39px; top: 81px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 740px; color: black; font-size: 40px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Let`s start converting your visitors into buyer`s</div>
+          </div>
+          <div style="width: 355px; padding: 10px; left: 39px; top: 648px; position: absolute; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="width: 343px; color: black; font-size: 40px; font-family: Poppins; font-weight: 700; word-wrap: break-word">PERSUADE MIND</div>
+          </div>
+          <div style="width: 751px; left: 39px; top: 266px; position: absolute; color: black; font-size: 24px; font-family: Plus Jakarta Sans; font-weight: 400; word-wrap: break-word">Build converting landing pages Build converting landing pages <br/>that effectively increase your sales Build converting landing pages <br/>that effectively increase your sales<br/>that effectively increase your sales</div>
+          <div style="padding-left: 29.57px; padding-right: 29.57px; padding-top: 11.83px; padding-bottom: 11.83px; left: 39px; top: 445px; position: absolute; border-radius: 8.87px; border: 1.48px black solid; justify-content: center; align-items: center; display: inline-flex">
+            <div style="color: black; font-size: 35.48px; font-family: Plus Jakarta Sans; font-weight: 700; word-wrap: break-word">Get your website</div>
+          </div>
+          <div style="left: 45px; top: 573px; position: absolute; justify-content: flex-start; align-items: center; gap: 23px; display: inline-flex">
+            <div style="width: 46px; height: 46px; position: relative">
+              <div style="width: 38.34px; height: 38.33px; left: 3.83px; top: 3.83px; position: absolute; background: black"></div>
+            </div>
+            <div style="width: 46px; height: 46px; position: relative">
+              <div style="width: 34.50px; height: 34.50px; left: 5.75px; top: 5.75px; position: absolute; background: black"></div>
+            </div>
+            <div style="width: 46px; height: 46px; position: relative">
+              <div style="width: 34.50px; height: 34.50px; left: 5.75px; top: 5.75px; position: absolute; background: black"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
+
+
